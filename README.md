@@ -2,22 +2,6 @@
 
 This repository contains a collection of Java-based minor projects developed for academic practice and learning core Java concepts such as OOPs, file handling, and basic application logic.
 
-## 📌 Projects Included
-
-### 1. ATM Information Management System
-- Simulates basic ATM operations
-- User account handling
-- Object-Oriented design in Java
-
-### 2. Calculator Application
-- Simple calculator using Java
-- Performs basic arithmetic operations
-- Beginner-friendly project to understand Java syntax and logic
-
-### 3. Employee Payroll System
-- Manages employee salary details
-- Supports Full-Time and Part-Time employees
-- Demonstrates inheritance, polymorphism, and abstraction
 
 ## 🛠️ Technologies Used
 - Java
